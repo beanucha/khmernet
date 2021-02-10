@@ -1,0 +1,2 @@
+# khmernet
+khmernet free all
